@@ -37,7 +37,7 @@
     "clsx": "^2.1.1",
     "framer-motion": "^12.26.2",
     "isbot": "^5.1.0",
-    "lucide-react": "^0.562.0",
+    "lucide-react": "^0.563.0",
     "postcss": "^8.5.6",
     "prisma": "^6.2.1",
     "react": "^18.2.0",
